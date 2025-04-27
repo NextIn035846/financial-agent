@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.vscode/
+.coverage
+db/scrap_backup.db
+.streamlit/
