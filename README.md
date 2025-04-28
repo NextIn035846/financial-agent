@@ -69,20 +69,7 @@ Personalized investment recommendations
 
 Market news integration
 
-## 📂 Getting Started
-Clone the repo:
-
-bash
-git clone https://github.com/your-username/financial-ai-agent.git 
-Install dependencies:
-
-bash
-cd financial-ai-agent  
-pip install -r requirements.txt  
-Run the application:
-
-bash
-python app.py  
+ 
 ## 🤝 Contributing
 Got ideas? Found a bug?
 Feel free to open an issue or submit a pull request!
